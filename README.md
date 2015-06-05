@@ -1,4 +1,5 @@
-# Welcome to Cryptelo Lab
+![Welcome to Cryptelo Lab](https://raw.githubusercontent.com/cryptelo/cryptelolab/master/pictures/crypteloLab.png)
+
 Lab of [Cryptelo s.r.o.](https://www.cryptelo.com) focused on research in theoretical and applied cryptography.
 
 We developed product Cryptelo Drive (encrypted cloud storage) and presented top level information about [technology](https://www.cryptelo.com/en/technology).
