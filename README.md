@@ -7,7 +7,7 @@ We will present here scientific news about technology, our reseach, presentation
 
 We are open for colaboration with universities, companies and individuals, that has also passion for cryptography. If you would like to cooperate with us, you are gladly welcome and encourage to send 'Hello' to lab@cryptelo.com.
 
-Cryptelo Lab
+Cryptelo Lab Team
 
 ##Latest news
 * SPI Brno 2015 [our presentations](https://github.com/cryptelo/cryptelolab/wiki/SPI-2015-Brno)
